@@ -9,3 +9,6 @@
 ```java
    int var1 = 6;
 ```   
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
