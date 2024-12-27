@@ -4,3 +4,11 @@
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<br/>
+```java
+   int var1 = 6;
+```   
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
